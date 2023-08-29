@@ -1,0 +1,3 @@
+fastapi==0.103.0  # https://github.com/tiangolo/fastapi
+pre-commit==3.3.3  # https://github.com/pre-commit/pre-commit
+ruff==0.0.286  # https://github.com/astral-sh/ruff
